@@ -1,0 +1,11 @@
+polars==1.44.2
+numpy==2.0.2
+torch==2.10.0
+sentence-transformers==6.1.0
+transformers==5.0.0
+lightgbm==4.7.0
+snowballstemmer==3.1.1
+scipy==1.16.3
+pandas==2.3.3
+tqdm==4.67.3
+huggingface_hub==1.11.0
